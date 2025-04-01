@@ -2,7 +2,7 @@
 
 ## Description
 
-This code was developed as an assignment for the course TÓPICOS EM INTELIGÊNCIA ARTIFICIAL at UFPI.
+This code was developed as an assignment for the course Tópicos em Inteligência Artificial at Universidade Federal do Piauí.
 
 This project analyzes the effect of triadic closure in the social network of the karate club studied by Wayne Zachary. The original network is loaded using the `networkx` library, and the simulation adds fictitious connections between node pairs that share a common neighbor. The analysis compares the clustering coefficient before and after the modification to assess the impact on network connectivity.
 
